@@ -1,0 +1,14 @@
+header {
+    background: green;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    background-color: turquoise;
+    color: white;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
